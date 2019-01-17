@@ -1,6 +1,6 @@
 ---
 layout: layout.pug
-title: Installing DC/OS
-menuWeight: 30
-excerpt: Installing DC/OS
+title: Planning DC/OS
+menuWeight: 5
+excerpt: Planning and Configuring Your Cluster for DC/OS
 ---

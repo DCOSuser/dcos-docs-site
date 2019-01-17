@@ -1,6 +1,6 @@
 ---
 layout: layout.pug
-title: Installing
+title: Installing-Sandbox
 menuWeight: 30
 excerpt: Installing DC/OS
 ---
